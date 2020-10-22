@@ -9,7 +9,7 @@ use Kanboard\Core\Base;
  * Creator Helper
  *
  * @package helper
- * @author  Craig Crosy
+ * @author  Craig Crosby
  */
 class CreatorHelper extends TaskHelper
 {
