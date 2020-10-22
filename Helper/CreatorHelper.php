@@ -6,7 +6,7 @@ use Kanboard\Helper\TaskHelper;
 use Kanboard\Core\Base;
 
 /**
- * Avatar Helper
+ * Creator Helper
  *
  * @package helper
  * @author  Craig Crosy
